@@ -18,9 +18,11 @@
 ### Connect With Me:
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristapor-katar-08694b335)
+
+<!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristapor-katar-08694b335) -->
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felixvibeke1998@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmaster2050@gmail.com)
 
 ---
 
@@ -49,7 +51,6 @@
 ![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
 
-
 ---
 
 ### Top Usage Languages:
@@ -58,10 +59,7 @@
 
 ---
 
-
-
 ### Top Creatures
-
 
 <a href="https://tellimer.com/">
   <img align="center" width=45% src="https://github.com/FelixVibeke/About-me/blob/main/public/readme/11.png" />
